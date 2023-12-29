@@ -1,0 +1,107 @@
+.inner-container{
+    padding: 0px 168px 184px 175px;
+    list-style: none;
+}
+
+.header{
+    padding: 49px 165px 41px 90px;
+}
+
+.hero{
+    background-image: url('../images/hero-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 619px;
+}
+.navbar-div{
+    width: 580px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: #FA4A0C;
+}
+
+.ul-list{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.div-btn{
+    gap: 67px;
+}
+
+.btn{
+    width: 236px;
+    padding: 16px 0px;
+    color: white;
+    border: 1px solid #FFF;
+    border-radius: 30px;
+    background-color: transparent;
+}
+
+.btn:hover{
+    color: #fff;
+    background: #FA4A0C;
+    box-shadow: 0px 10px 30px 0px rgba(183, 50, 39, 0.20);
+}
+
+.img-phone{
+    width: 250px;
+    height: 506px;
+}
+
+.ul-list2{
+    list-style: none;
+    margin-top: 70px;
+}
+
+.ul-list3{
+    list-style: none;
+    margin-top: 108px;
+}
+
+.bottom-section{
+    height: 516px;
+    background-image: url('../images/footer-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bottom-btn{
+    gap: 16px;
+}
+
+.bottom-h2{
+    color: #fff;
+}
+
+.bottom-p{
+    color: #fff;
+}
+
+.btn-bot{
+    color: #fff;
+    display: flex;
+    padding: 16px 45px;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    background-color: transparent;
+}
+
+.btn-bot:hover{
+    background-color: #FA4A0C;
+}
+
+.footer{
+    padding: 78px 115px 27px 115px;
+}

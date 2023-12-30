@@ -14,10 +14,23 @@
     background-size: cover;
     height: 619px;
 }
-.navbar-div{
-    width: 580px;
-    display: flex;
-    justify-content: space-between;
+
+.hero-p{
+    margin:14px 0px 54px;
+}
+
+.ul-list-p{
+    margin-bottom: 17px;
+    color: #FA4A0C;
+}
+
+.ul-list-h2{
+    color: #252B42;
+    margin-bottom: 27px;
+}
+
+.ul-list-p2{
+    color: #737373;
 }
 
 .nav-link{
@@ -86,6 +99,8 @@
 
 .bottom-p{
     color: #fff;
+    margin-bottom: 59px;
+    margin-top: 20px;
 }
 
 .btn-bot{
@@ -104,4 +119,8 @@
 
 .footer{
     padding: 78px 115px 27px 115px;
+}
+
+.footer-p{
+    color: #5C5C5C;
 }
